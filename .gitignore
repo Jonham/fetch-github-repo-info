@@ -1,0 +1,11 @@
+# env for process.env
+.env
+
+bookmarks
+bookmarks/*
+
+results/**/*.json
+results/**/*.xlsx
+results/*.json
+
+node_modules
